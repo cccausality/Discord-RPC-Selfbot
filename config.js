@@ -9,7 +9,7 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1505038333275803688",
 
         "name": "", // title
         "details": "", // first row below title
