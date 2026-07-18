@@ -2,7 +2,7 @@
 
 module.exports = {
     // discord bot token
-    "token": "",
+    "token": "MTM3OTE2NDg1MDE3NzE3OTY2OA.Ga8hA_.-sS4mpTQblab-UZ_wCFhBJwQqnrmltCVvQ3jsw",
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
@@ -42,17 +42,17 @@ module.exports = {
         "endTimestamp": ""
     },
     "spotify": {
-        "name": "", // for exemple listening to {name} instead of listening to spotify
-        "details": "", // title
-        "state": "", // row below title
+        "name": "Spotify", // for exemple listening to {name} instead of listening to spotify
+        "details": "paragons", // title
+        "state": "?", // row below title
 
-        "largeImageKey": "", // https://github.com/mewzax/Discord-RPC-Selfbot/wiki/Spotify-API
+        "largeImageKey": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273d51cf93fa845c1935289f2d1", // https://github.com/mewzax/Discord-RPC-Selfbot/wiki/Spotify-API
         "largeImageText": "", // will also be second row below title
         
         "smallImageKey": "",
         "smallImageText": "",
         
-        "startTimestamp": "",
-        "endTimestamp": "",
+        "startTimestamp": "1",
+        "endTimestamp": "1",
     }
 }
